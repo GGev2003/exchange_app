@@ -80,6 +80,6 @@
 
 Developed with PyQt6 and Python
 For educational purposes
-MIT License
+MIT License.
 
 ══════════════════════════════════════════════════════════════
