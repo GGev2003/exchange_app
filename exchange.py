@@ -177,7 +177,7 @@ class Currency_app(Currency_getting):
         app.exec()
     
 
-
+# 
 
 if __name__ == "__main__":
     app = Currency_app()  
