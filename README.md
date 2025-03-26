@@ -1,6 +1,6 @@
-╔════════════════════════════════════════════════════════════╗
-║                  CURRENCY CONVERTER APP                    ║
-╚════════════════════════════════════════════════════════════╝
+
+║   CURRENCY CONVERTER APP     ║
+
 
 ✦ Features ✦
 • Convert between USD, EUR, GBP, JPY,RUB,AMD
