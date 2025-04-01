@@ -1,5 +1,4 @@
 from PyQt6.QtWidgets import *
-from PyQt6.QtGui import QIntValidator
 import requests
 
 class Currency_getting:
@@ -98,7 +97,6 @@ class Currency_app(Currency_getting):
         # Amount input
         self.amount_input  = QLineEdit()
         self.amount_input .setPlaceholderText("Enter your name")
-        # self.amount_input .setValidator(QIntValidator())
 
         # Converting button
         button = QPushButton("Convert!")
